@@ -1,0 +1,21 @@
+/** @format */
+
+.last-item {
+  padding-bottom: 6rem;
+}
+.top-text {
+  margin-top: 3rem;
+}
+.text-style {
+  font-size: 0.7rem;
+  margin-bottom: 2rem;
+}
+.btn-spacing {
+  margin: 1rem;
+}
+.back-btn-style {
+  border-radius: 50px !important ;
+}
+.back-btn-icon {
+  font-size: 1.5rem;
+}
