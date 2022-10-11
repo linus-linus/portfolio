@@ -5,7 +5,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-sm-12 col-md-6 col-lg-4 text-start no-color">
-          <h3 class="header-spacing">Kontakt info</h3>
+          <h3 class="header-spacing">Kontakt informasjon</h3>
           <p class="text-spacing">
             <span class="year-font-size-two">Navn:</span> Lea jayaseela
           </p>
@@ -19,6 +19,14 @@
           <p class="text-spacing">
             <span class="year-font-size-two">Født:</span> 14.10.1996
           </p>
+
+          <h3 class="header-spacing">Kvalifikasjoner</h3>
+          <p class="text-spacing">
+            Liker utfordringer og å jobbe i team, men jobber også godt
+            individuelt. Er kreativ, strukturert, positiv, fleksibel,
+            nysgjerring og opptatt av å gjøre en grundig jobb. Har gode
+            IT-ferdigheter.
+          </p>
           <h3 class="header-spacing">Språk</h3>
           <p class="text-spacing">
             <span class="year-font-size-two">Norsk:</span> Morsmål
@@ -27,23 +35,15 @@
             <span class="year-font-size-two">Engelsk:</span> Godt skiftlig,
             flytende muntlig
           </p>
+
+          <h3 class="header-spacing">IT</h3>
           <p class="text-spacing">
-            <span class="year-font-size-two">Tysk:</span> Ok
-          </p>
-          <h3 class="header-spacing">Annet</h3>
-          <p class="text-spacing">
-            Har kunnskaper innen Office, Adobepakken(InDesign, Illustrator),
-            Html, CSS, JavaSkript, Vue, WordPress. Har litt kunnskap inne
-            database og Java.
+            Office, Adobepakken (InDesign, Illustrator), Figma, Html, CSS,
+            JavaSkript, Vue rammeverk, WordPress, database, Java, FarmaPro og
+            Xcode.
           </p>
 
-          <h3 class="header-spacing">Om meg</h3>
-          <p class="text-spacing">
-            Liker å jobbe i team. Glad i å være kreativ, har interrese for å
-            tegne, hekling og strikke. Liker å løpe og trene. Katter er mitt
-            favorittdyr.
-          </p>
-          <h3 class="header-spacing">Referanse</h3>
+          <h3 class="header-spacing">Referanser</h3>
 
           <p class="text-spacing">Apotek 1 kiellands hus</p>
           <p class="text-spacing">Daniel Chan (farmasøyt)</p>
@@ -54,7 +54,7 @@
           <p class="text-spacing">mob: 98031163</p>
         </div>
         <div
-          class="col-sm-12 col-md-6 col-lg-4 text-start half-color bg-success text-dark bg-opacity-10"
+          class="col-sm-12 col-md-6 col-lg-6 text-start half-color bg-success text-dark bg-opacity-10"
         >
           <div class="">
             <h3 class="header-spacing-two">Utdanning</h3>
@@ -62,37 +62,45 @@
             <div class="text-spacing">
               <h4 class="year-font-size-two">2020-2022:</h4>
               <p class="text-spacing">
-                Er på mitt 4e semester av bachelor grad i informasjonsteknologi
-                interaktivt design
+                Studerer en bachelor i informasjonsteknologi interaktivt design,
+                hvor jeg lærer å utvikle brukervennlige og effektive
+                webløsninger. Blir ferdig uteksaminert våren 2023.
               </p>
               <h4 class="year-font-size">2015-2018:</h4>
-              <p class="text-spacing">Bachelor i produktdesign, OsloMet</p>
+              <p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
               <h4 class="year-font-size">2012-2015:</h4>
               <p class="text-spacing">
-                Inderøy videregående, danselinje, generell studiekompetanse.
+                Inderøy videregående skole, danselinja med generell
+                studiekompetanse.
               </p>
             </div>
             <div class="text-spacing">
               <h3 class="header-spacing-two">Arbeidserfaring</h3>
               <h4 class="year-font-size-two">2019-2022:</h4>
               <p class="text-spacing">
-                Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus.
+                Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber
+                med resepthåndtering, varetelling, vareeksponering, kassaarbeid,
+                innsending av resepter til Helfo, varegistrering,
+                kundebehandling og bruk av ulike dataprogram for f.eks.
+                e-bestillinger. Har også ansvar for åpning og stenging av
+                apoteket.
               </p>
               <h4 class="year-font-size">2018-2019:</h4>
               <p class="text-spacing">
                 Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer.
+                Gjorde tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1
+                kiellans hus.
               </p>
               <h4 class="year-font-size">2016-2017:</h4>
               <p class="text-spacing">
-                Sesongarbeider, Apotek1 Steinkjer. Jobbet med å gi kunder best
-                mulig butikkopplevelse, ved å hjelpe de til riktige produktvalg.
-                Jobbet også med håndtering av kasse og resepthåndtering.
+                Sesongarbeider, Apotek1 Steinkjer. Jobbet med kundebehandling,
+                kassaarbeid og resepthåndtering.
               </p>
               <h4 class="year-font-size">2013-2015:</h4>
               <p class="text-spacing">
-                Helgeansatt, Nils Aas Kunsverksted. Tok imot og introduserte
-                utstillinger for besøkende. Ekspederte i museumsbutikken og
-                bidro under konserter på bygget.
+                Helgeansatt, Nils Aas Kunsverksted. Tok imot besøkende og
+                introduserte utstillinger. Ekspederte i museumsbutikken og bidro
+                under konserter på bygget.
               </p>
             </div>
           </div>
