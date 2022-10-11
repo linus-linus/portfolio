@@ -54,7 +54,7 @@
           <p class="text-spacing">mob: 98031163</p>
         </div>
         <div
-          class="col-sm-12 col-md-6 col-lg-6 text-start half-color bg-success text-dark bg-opacity-10"
+          class="col-sm-12 col-md-6 col-lg-4 text-start half-color bg-success text-dark bg-opacity-10"
         >
           <div class="">
             <h3 class="header-spacing-two">Utdanning</h3>
