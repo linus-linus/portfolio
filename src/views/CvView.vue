@@ -68,11 +68,6 @@
               </p>
               <h4 class="year-font-size">2015-2018:</h4>
               <p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
-              <h4 class="year-font-size">2012-2015:</h4>
-              <p class="text-spacing">
-                Inderøy videregående skole, danselinja med generell
-                studiekompetanse.
-              </p>
             </div>
             <div class="text-spacing">
               <h3 class="header-spacing-two">Arbeidserfaring</h3>
