@@ -58,7 +58,6 @@ export default {
   border: none;
 }
 .btn-background {
-  padding: 0.6rem;
   padding-left: 1rem;
   padding-right: 1rem;
   margin-bottom: 0.5rem;
