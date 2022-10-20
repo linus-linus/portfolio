@@ -21,6 +21,7 @@
                   class="card-img-top img-size mx-auto"
                   alt=""
                 />
+                <h2 class="titel-style-show">{{ title }}</h2>
 
                 <div v-if="hover">
                   <h2 class="titel-style">{{ title }}</h2>
@@ -79,16 +80,21 @@ export default {
 .test-style:hover {
   display: block;
 }
+.titel-style-show {
+  display: none;
+}
 
 /*Mob */
 @media screen and (max-width: 480px) {
   .btn-background {
     background-color: #e9f3ed;
   }
-  .titel-style {
-    background-color: red !important;
-    display: block !important;
-    color: black !important;
+
+  .titel-style-show {
+    display: block;
+    font-size: 0.8rem;
+    margin-top: 2.5rem;
+    color: black;
   }
 }
 </style>
