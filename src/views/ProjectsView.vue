@@ -7,10 +7,10 @@
 </template>
 
 <script>
-import ProjectList from "../components/portfolio/ProjectList.vue";
+import ProjectList from "../components/portfolio/ProjectList.vue"
 export default {
   components: {
     ProjectList,
   },
-};
+}
 </script>

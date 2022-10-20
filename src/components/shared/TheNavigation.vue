@@ -2,7 +2,7 @@
 
 <template>
   <div class="collapse" id="collapseExample"></div>
-  <nav class="navbar navbar-expand-lg bg-light sticky-top">
+  <nav class="navbar navbar-expand-lg sticky-top">
     <div class="container-fluid">
       <router-link class="nav-link nav-style-balloon" to="/"
         ><i class="bi bi-balloon-fill"></i
@@ -40,17 +40,18 @@
 <script>
 export default {
   setup() {},
-};
+}
 </script>
 
 <style scoped>
 .nav-style-balloon {
   font-size: 1.3rem;
-  padding-right: 5rem;
+  padding-right: 1rem;
   padding-left: 1rem;
 }
 .nav-style-new {
   color: black;
+  font-weight: 400;
 }
 .nav-style-new:hover {
   color: #00967b;

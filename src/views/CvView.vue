@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <template>
-  <section class="main-spaicing">
+  <section class="main-spaicing" data-aos="fade-up" data-aos-duration="1500">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-sm-12 col-md-6 col-lg-4 text-start no-color">
@@ -52,51 +52,49 @@
           <p class="text-spacing">Hutsuda Lawrence (farmasøyt)</p>
           <p class="text-spacing">mob: 98031163</p>
         </div>
+
         <div
           class="col-sm-12 col-md-6 col-lg-4 text-start half-color bg-success text-dark bg-opacity-10"
         >
-          <div class="">
-            <h3 class="header-spacing-two">Utdanning</h3>
+          <h3 class="header-spacing-two">Utdanning</h3>
 
-            <div class="text-spacing">
-              <h4 class="year-font-size-two">2020-2022:</h4>
-              <p class="text-spacing">
-                Studerer en bachelor i informasjonsteknologi interaktivt design,
-                hvor jeg lærer å utvikle brukervennlige og effektive
-                webløsninger. Blir ferdig uteksaminert våren 2023.
-              </p>
-              <h4 class="year-font-size">2015-2018:</h4>
-              <p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
-            </div>
-            <div class="text-spacing">
-              <h3 class="header-spacing-two">Arbeidserfaring</h3>
-              <h4 class="year-font-size-two">2019-2022:</h4>
-              <p class="text-spacing">
-                Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber
-                med resepthåndtering, varetelling, vareeksponering, kassaarbeid,
-                innsending av resepter til Helfo, varegistrering,
-                kundebehandling og bruk av ulike dataprogram for f.eks.
-                e-bestillinger. Har også ansvar for åpning og stenging av
-                apoteket.
-              </p>
-              <h4 class="year-font-size">2018-2019:</h4>
-              <p class="text-spacing">
-                Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer.
-                Gjorde tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1
-                kiellans hus.
-              </p>
-              <h4 class="year-font-size">2016-2017:</h4>
-              <p class="text-spacing">
-                Sesongarbeider, Apotek1 Steinkjer. Jobbet med kundebehandling,
-                kassaarbeid og resepthåndtering.
-              </p>
-              <h4 class="year-font-size">2013-2015:</h4>
-              <p class="text-spacing">
-                Helgeansatt, Nils Aas Kunsverksted. Tok imot besøkende og
-                introduserte utstillinger. Ekspederte i museumsbutikken og bidro
-                under konserter på bygget.
-              </p>
-            </div>
+          <div class="text-spacing">
+            <h4 class="year-font-size-two">2020-2022:</h4>
+            <p class="text-spacing">
+              Studerer en bachelor i informasjonsteknologi interaktivt design,
+              hvor jeg lærer å utvikle brukervennlige og effektive webløsninger.
+              Blir ferdig uteksaminert våren 2023.
+            </p>
+            <h4 class="year-font-size">2015-2018:</h4>
+            <p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
+          </div>
+          <div class="text-spacing">
+            <h3 class="header-spacing-two">Arbeidserfaring</h3>
+            <h4 class="year-font-size-two">2019-2022:</h4>
+            <p class="text-spacing">
+              Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber
+              med resepthåndtering, varetelling, vareeksponering, kassaarbeid,
+              innsending av resepter til Helfo, varegistrering, kundebehandling
+              og bruk av ulike dataprogram for f.eks. e-bestillinger. Har også
+              ansvar for åpning og stenging av apoteket.
+            </p>
+            <h4 class="year-font-size">2018-2019:</h4>
+            <p class="text-spacing">
+              Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer. Gjorde
+              tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1 kiellans
+              hus.
+            </p>
+            <h4 class="year-font-size">2016-2017:</h4>
+            <p class="text-spacing">
+              Sesongarbeider, Apotek1 Steinkjer. Jobbet med kundebehandling,
+              kassaarbeid og resepthåndtering.
+            </p>
+            <h4 class="year-font-size">2013-2015:</h4>
+            <p class="text-spacing">
+              Helgeansatt, Nils Aas Kunsverksted. Tok imot besøkende og
+              introduserte utstillinger. Ekspederte i museumsbutikken og bidro
+              under konserter på bygget.
+            </p>
           </div>
         </div>
       </div>
@@ -104,6 +102,7 @@
   </section>
 </template>
 
+<script></script>
 <style scoped>
 .main-spaicing {
   margin-top: 100px;

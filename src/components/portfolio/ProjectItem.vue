@@ -1,7 +1,11 @@
 <!-- @format -->
 
 <template>
-  <div class="col-sm-12 col-md-6 col-lg-4">
+  <div
+    data-aos="zoom-in"
+    data-aos-duration="800"
+    class="col-sm-12 col-md-6 col-lg-4"
+  >
     <router-link :to="{ path }">
       <div class="card card-size text-center">
         <div class="card-body card-size-style">
@@ -18,8 +22,8 @@
                   alt=""
                 />
 
-                <div v-if="hover" class="titel-style">
-                  {{ title }}
+                <div v-if="hover">
+                  <h2 class="titel-style">{{ title }}</h2>
                 </div>
               </button>
             </div>
@@ -71,5 +75,20 @@ export default {
 .img-size {
   height: 150px;
   width: 150px;
+}
+.test-style:hover {
+  display: block;
+}
+
+/*Mob */
+@media screen and (max-width: 480px) {
+  .btn-background {
+    background-color: #e9f3ed;
+  }
+  .titel-style {
+    background-color: red !important;
+    display: block !important;
+    color: black !important;
+  }
 }
 </style>
