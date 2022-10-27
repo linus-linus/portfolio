@@ -91,7 +91,7 @@ export default {
 
   .titel-style-show {
     display: block;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin-top: 2.5rem;
     color: black;
   }

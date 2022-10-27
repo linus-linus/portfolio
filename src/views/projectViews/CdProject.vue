@@ -76,9 +76,7 @@ export default {
 </script>
 
 <style scoped>
-.btn-spacing {
-  padding-bottom: 0.6rem;
-}
+
 .top-img {
   width: 80px;
   margin-bottom: 1rem;
