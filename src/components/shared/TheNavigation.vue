@@ -28,7 +28,7 @@
           </li>
           <li class="nav-item">
             <router-link class="nav-link nav-style nav-style-new" to="/projects"
-              >Prosjekter</router-link
+              >PROSJEKTER</router-link
             >
           </li>
         </ul>
@@ -52,6 +52,7 @@ export default {
 .nav-style-new {
   color: black;
   font-weight: 400;
+  font-size: 0.8rem;
 }
 .nav-style-new:hover {
   color: #00967b;
