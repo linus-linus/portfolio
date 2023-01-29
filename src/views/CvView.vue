@@ -48,7 +48,7 @@
           <h3 class="header-spacing">IT</h3>
           <p class="text-spacing">
             Office, Adobepakken (InDesign, Illustrator), Figma, Html, CSS,
-            JavaSkript, Vue rammeverk, WordPress, database, Java og Xcode.
+            JavaSkript, Vue rammeverk, WordPress, database, Java og Swift.
           </p>
 
           <h3 class="header-spacing">Referanser</h3>
