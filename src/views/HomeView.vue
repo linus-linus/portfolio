@@ -43,7 +43,7 @@
     <div class="col"></div>
 
     <div class="test col p-5 m-4" data-aos="fade-up" data-aos-duration="3000">
-      EEEEE
+      E
     </div>
     <div class="col"></div>
   </div>
