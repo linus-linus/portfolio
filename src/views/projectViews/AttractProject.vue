@@ -18,10 +18,10 @@
 						<h2 class="text-style top-text">Problemstilling</h2>
 
 						<p class="text-spacing text-start mt-1">
-							Produkteier ønsker seg en webapplikasjon der det skal være mulig å planlegge og følge opp arrangementer. Denne eksisterende prosessen er i dag mangelfull og ineffektiv som
-							følge av at den prossesen er spredt utover mange kanaler. Det var derfor viktig for oss å samle denne prosessen på et sted og slik gjøre den mer oversiktlig og effektiv. At
-							prosessen er mangelfull kan skape frustrasjon hos brukerne. Gjennom å forbedre prosessen ønsket vi å gi de ansatte en bedre brukeropplevelse. På bakgrunn av dette har vi
-							formulert vi denne problemstilling som lyder:
+							Produkteier ønsker seg en webapplikasjon der det skal være mulig å planlegge og følge opp arrangementer. Denne eksisterende prosessen er mangelfull og ineffektiv som følge
+							av at den var spredt utover mange kanaler. Det var derfor viktig for oss å samle denne prosessen på et sted og slik gjøre den mer oversiktlig og effektiv. At prosessen er
+							mangelfull kan skape frustrasjon hos brukerne. Gjennom å forbedre prosessen ønsket vi å gi de ansatte en bedre brukeropplevelse. På bakgrunn av dette formulert vi denne
+							problemstilling som lyder:
 						</p>
 
 						<p
@@ -35,7 +35,7 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractOne.png"
-							alt="" />
+							alt="MVP" />
 
 						<p class="text-spacing text-start">
 							Under dette prosjekte jobbet vi mye med bruker sentrert design, designprinsipper til Don Norman, brukskvalitet og universell utforming. Vi brukte Scrum som smidig metodem
@@ -48,7 +48,7 @@
 						<img
 							class="img-size"
 							src="@/assets/images/prossesmodel.png"
-							alt="" />
+							alt="Prosjektmodell" />
 
 						<h2 class="text-style top-text">Løsningen</h2>
 
@@ -60,36 +60,35 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwo.png"
-							alt=""
+							alt="Logg inn-side"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Logg inn-side</p>
+						<p class="short-text text-start">Logg inn-side</p>
 
-						<p class="text-spacing text-start">
+						<p class="text-spacing text-start mt-1">
 							Etter logg-inn havner man på dashboard-siden. Denne er utstyrt med en informasjon-karusell der viktige beskjeder fra ledelsen i Attract vil publiseres, snarveier til ulike
-							ressurser og materiell som ikke er integrert i løsningen men som er viktige for de ansatte, en liten kalender med oversikt over kommende arrangementer, og knapper for
-							opprettelse av arrangement og snarvei til mine arrangementer-siden. Se figur 19.
+							ressurser og materiell som er viktige for de ansatte, en liten kalender med oversikt over kommende arrangementer, og knapper for opprettelse av arrangement og snarvei til
+							mine arrangementer-siden.
 						</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractThree.png"
-							alt=""
+							alt="Dashboard"
 							style="border: 1px solid black" />
 
-						<p class="text-spacing text-start">Dashboard</p>
+						<p class="short-text text-start">Dashboard</p>
 
-						<p class="text-spacing text-start">
+						<p class="text-spacing text-start mt-1">
 							Når man oppretter arrangement må man gjennom en prosess delt i 3 steg. Første steg innebærer å legge inn korrekt informasjon om arrangementet, det andre å legge til eier og
-							andre deltakere fra Attract, og til slutt får man opp et sammendrag over det man har lagt til. På hvert steg er det mulig å avbryte eller gå tilbake til forrige steg. Se
-							figur 20-25 for prosessen i 3 steg.
+							andre deltakere fra Attract, og til slutt får man opp et sammendrag over det man har lagt til. På hvert steg er det mulig å avbryte eller gå tilbake til forrige steg.
 						</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractFour.png"
-							alt=""
+							alt="Steg 1 i prosessen med å opprette arrangement."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Steg 1 i prosessen med å opprette arrangement.</p>
+						<p class="short-text text-start">Steg 1 i prosessen med å opprette arrangement.</p>
 
 						<div class="container text-center">
 							<div class="row justify-content-center">
@@ -97,14 +96,14 @@
 									<img
 										class="img-size"
 										src="@/assets/images/attractFive.png"
-										alt=""
+										alt="Feilmelding ved manglende utfylling av obligatorisk felt"
 										style="border: 1px solid black" />
 								</div>
 								<div class="col-6">
 									<img
 										class="img-size"
 										src="@/assets/images/attractSix.png"
-										alt=""
+										alt="Eksempel på drop down-meny"
 										style="border: 1px solid black" />
 								</div>
 							</div>
@@ -112,11 +111,11 @@
 
 						<div class="container text-center">
 							<div class="row justify-content-center">
-								<div class="col-sm-8 col-md-4 col-lg-6">
-									<p class="text-spacing text-start">Feilmelding ved manglende utfylling av obligatorisk felt</p>
+								<div class="col-lg-6">
+									<p class="short-text text-start">Feilmelding ved manglende utfylling av obligatorisk felt</p>
 								</div>
-								<div class="col-sm-8 col-md-4 col-lg-6">
-									<p class="text-spacing text-start">Eksempel på drop down-meny</p>
+								<div class="col-lg-6">
+									<p class="short-text text-start">Eksempel på drop down-meny</p>
 								</div>
 							</div>
 						</div>
@@ -124,29 +123,29 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractSeven.png"
-							alt=""
+							alt="Steg 2 i prosessen med å opprette arrangement"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Steg 2 i prosessen med å opprette arrangement</p>
+						<p class="short-text text-start">Steg 2 i prosessen med å opprette arrangement</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractEight.png"
-							alt=""
+							alt="Legge til deltakere"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Legge til deltakere</p>
+						<p class="short-text text-start">Legge til deltakere</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractNine.png"
-							alt=""
+							alt="Steg 3 i prosessen med å opprette arrangement"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Steg 3 i prosessen med å opprette arrangement</p>
+						<p class="short-text text-start">Steg 3 i prosessen med å opprette arrangement</p>
 
-						<p class="text-spacing text-start">
-							Arrangement-siden het tidligere “Kalender”. Vi har underveis i utviklingen gått bort fra dette navnet da det ga dårlig sammenheng med listevisningen av arrangementene som
-							er default når man klikker seg inn på siden. Arrangement-siden er delt i tre mindre sider, mine arrangementer, alle arrangementer og historikk. På mine arrangementer-siden
-							vil man kun se de arrangementene man selv står som eier eller deltaker på, mens alle arrangementene betegner alle arrangementene innad i hele Attract. På begge sidene kan
-							man skifte mellom visning i liste eller kalender. Sidene kan videre sorteres etter kategoriene i tabellen og filtreres på en rekke alternativer som semester, skolegrupp og
+						<p class="text-spacing text-start mt-1">
+							Arrangement-siden het tidligere “Kalender”. Underveis i utviklingen gått bort fra dette navnet da det ga dårlig sammenheng med listevisningen av arrangementene som er
+							default når man klikker seg inn på siden. Arrangement-siden er delt i tre mindre sider, mine arrangementer, alle arrangementer og historikk. På mine arrangementer-siden vil
+							man kun se de arrangementene man selv står som eier eller deltaker på, mens alle arrangementene betegner alle arrangementene innad i hele Attract. På begge sidene kan man
+							skifte mellom visning i liste eller kalender. Sidene kan videre sorteres etter kategoriene i tabellen og filtreres på en rekke alternativer som semester, skolegrupp og
 							aktivitetstype. Det er også mulig å søke etter arrangementer. Den siste siden er en historikk-side, der man ved å legge inn datoer eller nøkkelord kan hente opp tidligere
 							arrangementer.
 						</p>
@@ -154,31 +153,31 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractTen.png"
-							alt=""
+							alt="Listevisning over arrangementer fra mine arrangementer-siden."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Listevisning over arrangementer fra mine arrangementer-siden.</p>
+						<p class="short-text text-start">Listevisning over arrangementer fra mine arrangementer-siden.</p>
 						<img
 							class="img-size"
 							src="@/assets/images/attractEleven.png"
-							alt=""
+							alt="Listevisning over alle arrangementer."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Listevisning over alle arrangementer.</p>
+						<p class="short-text text-start">Listevisning over alle arrangementer.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwelv.png"
-							alt=""
+							alt="Historikk-side."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Historikk-side.</p>
+						<p class="short-text text-start">Historikk-side.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractThirteen.png"
-							alt=""
+							alt="Kalendervisning"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Kalendervisning</p>
+						<p class="short-text text-start">Kalendervisning</p>
 
-						<p class="text-spacing text-start">
+						<p class="text-spacing text-start mt-1">
 							Klikker man seg inn på et arrangement vil man få en detaljert oversikt over arrangementet. I tillegg vil man finne oversikt over deltakere, gjøremål og registrering av
 							kostnader. Gjøremål refererer til en liste over de stegene som må gjennomføres for å kunne avholde et arrangement. De er sortert i en rekkefølge basert på hvor tidlig
 							steget bør gjennomføres, og når man er ferdig krysser man av for stegene man har gjort. Når man har gjort alle stegene, fullfører man arrangementet og siden vil bli statisk
@@ -189,67 +188,67 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractFourteen.png"
-							alt=""
+							alt="Se informasjon om et arrangement"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Se informasjon om et arrangement</p>
+						<p class="short-text text-start">Se informasjon om et arrangement</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractSeventeen.png"
-							alt=""
+							alt="Team-panel. Se deltakende ansatte i arrangementet."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Team-panel. Se deltakende ansatte i arrangementet.</p>
+						<p class="short-text text-start">Team-panel. Se deltakende ansatte i arrangementet.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractEighteen.png"
-							alt=""
+							alt="Gjøremål-panel"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Gjøremål-panel. Liste over gjøremål med avkrysning og lenker til aktuelle ressurser.</p>
+						<p class="short-text text-start">Gjøremål-panel. Liste over gjøremål med avkrysning og lenker til aktuelle ressurser.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractNineteen.png"
-							alt=""
+							alt="Fullføre arrangement"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Fullføre arrangement når alle punktene er gjennomført og avkrysset.</p>
+						<p class="short-text text-start">Fullføre arrangement når alle punktene er gjennomført og avkrysset.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwenty.png"
-							alt=""
+							alt="Tilbakemelding ved fullførelse av arrangement."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Tilbakemelding ved fullførelse av arrangement.</p>
+						<p class="short-text text-start">Tilbakemelding ved fullførelse av arrangement.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentyone.png"
-							alt=""
+							alt="Redigere arrangement."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Redigere arrangement.</p>
+						<p class="short-text text-start">Redigere arrangement.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentytwo.png"
-							alt=""
+							alt="Statisk side etter arrangementet er fullført"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Statisk side etter arrangementet er fullført, ikke lenger mulig å redigere.</p>
+						<p class="short-text text-start">Statisk side etter arrangementet er fullført, ikke lenger mulig å redigere.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentythree.png"
-							alt=""
+							alt="Kostnader-panel. Registrere kostnader fra arrangement."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Kostnader-panel. Registrere kostnader fra arrangement.</p>
+						<p class="short-text text-start">Kostnader-panel. Registrere kostnader fra arrangement.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentyfour.png"
-							alt=""
+							alt="Registrering av kostnader"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Registrering av kostnader med mulighet å redigere eller slette det som er fylt inn.</p>
+						<p class="short-text text-start">Registrering av kostnader med mulighet å redigere eller slette det som er fylt inn.</p>
 
-						<p class="text-spacing text-start">
+						<p class="text-spacing text-start mt-1">
 							For å se sin profil klikker man på profil-ikonet ytterst til høyre i navigasjonsbaren. Profilsiden tar utgangspunkt i en admin-bruker som skal ha mulighet til å legge til
 							og administrere brukere. Siden inneholder informasjon som navn, e-postadresse, hvilken skolegruppe vedkommende tilhører og rolle.
 						</p>
@@ -257,39 +256,32 @@
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentyfive.png"
-							alt=""
+							alt="Profil-side"
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Profil-side, med visning av profil-dropdown.</p>
-
-						<img
-							class="img-size"
-							src="@/assets/images/attractTwentysix.png"
-							alt=""
-							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Profil-side, med visning av profil-dropdown.</p>
+						<p class="short-text text-start">Profil-side, med visning av profil-dropdown.</p>
 
 						<img
 							class="img-size"
 							src="@/assets/images/attractTwentynine.png"
-							alt=""
+							alt="Admin kan legge til ny bruker."
 							style="border: 1px solid black" />
-						<p class="text-spacing text-start">Admin kan legge til ny bruker.</p>
-						<p class="text-spacing text-start">Løsningen er responsiv for både mobil og nettbrett. Under følger skjermbilder av et lite utvalg sider i mobil- og nettbrettstørrelse.</p>
+						<p class="short-text text-start">Admin kan legge til ny bruker.</p>
+						<p class="text-spacing text-start mt-1">Løsningen er responsiv for både mobil og nettbrett.</p>
 
 						<div class="container text-center">
 							<div class="row justify-content-center">
 								<div class="col-6">
 									<img
 										class="img-size"
-										src="@/assets/images/attractTwentyseven.png"
-										alt=""
+										src="@/assets/images/attractTwentyeight.png"
+										alt="Dashboard til mobil"
 										style="border: 1px solid black" />
 								</div>
 								<div class="col-6">
 									<img
 										class="img-size"
-										src="@/assets/images/attractTwentyeight.png"
-										alt=""
+										src="@/assets/images/attractTwentyseven.png"
+										alt="Arrangementsinformasjon til mobil"
 										style="border: 1px solid black" />
 								</div>
 							</div>
@@ -298,10 +290,10 @@
 						<div class="container text-center">
 							<div class="row justify-content-center">
 								<div class="col-sm-8 col-md-4 col-lg-6">
-									<p class="text-spacing text-start">Arrangementsinformasjon til mobil.</p>
+									<p class="short-text text-start">Dashboard til mobil.</p>
 								</div>
 								<div class="col-sm-8 col-md-4 col-lg-6">
-									<p class="text-spacing text-start">Dashboard til mobil.</p>
+									<p class="short-text text-start">Arrangementsinformasjon til mobil.</p>
 								</div>
 							</div>
 						</div>
@@ -347,11 +339,16 @@ export default {
 	margin-bottom: 2rem;
 }
 .text-spacing {
-	font-size: 0.8rem;
+	font-size: 14px;
 	margin-top: 2.5rem;
 	margin-bottom: 1rem;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
+}
+
+.short-text {
+	padding-left: 0.5rem;
+	font-size: 12px;
 }
 
 /*PC */
@@ -371,6 +368,8 @@ export default {
 	.img-size {
 		width: 80%;
 	}
+
+	.short-text,
 	.text-spacing {
 		padding-left: 3.2rem;
 		padding-right: 3.2rem;
@@ -386,6 +385,7 @@ export default {
 	.img-size {
 		width: 80%;
 	}
+	.short-text,
 	.text-spacing {
 		padding-left: 2.5rem;
 		padding-right: 2.5rem;
