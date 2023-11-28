@@ -11,7 +11,7 @@
 						<h1 class="text-style header-text">Kulturstien smidig prosjekt</h1>
 
 						<p class="text-spacing text-start mb-1">
-							Under dette prosjekte jobbet jeg med en tverfaglig gruppe på 8 stk. Det var studenter fra frontend programming, spill programmering og interaktivt design. Produkteier var
+							Under dette prosjekte jobbet jeg med en tverfaglig gruppe på 8 stk. Det var studenter fra frontend programming, spill programmering og interaktivt design. Kunde var
 							Rælingen Kommune, kommunen ligger midt mellom Oslo og Gardermoen. Byåa er en elv i Rælingen som renner ut i Øyeren, og langs Byåa var det for 350 år siden stor aktivitet
 							med gårds- og sagbruk. I dag er det mange ruiner og rester etter driften, og det skal lages en kultursti langs elva mellom disse ruinene.
 						</p>

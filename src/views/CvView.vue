@@ -49,10 +49,12 @@
 					<h3 class="header-spacing-two">Utdanning</h3>
 
 					<div class="text-spacing">
-						<h4 class="year-font-size-two">2023-2024:</h4>
+						<!--	<h4 class="year-font-size-two">2023-2024:</h4>
 						<p class="text-spacing">Årsstudie digital markedsføring</p>
-						<h4 class="year-font-size">2020-2023:</h4>
-						<p class="text-spacing">Studerer en bachelor i informasjonsteknologi interaktivt design</p>
+
+						-->
+						<h4 class="year-font-size-two">2020-2023:</h4>
+						<p class="text-spacing">Bachelor i informasjonsteknologi interaktivt design, Kristiania</p>
 						<h4 class="year-font-size">2015-2018:</h4>
 						<p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
 					</div>
