@@ -7,9 +7,13 @@
 		data-aos-duration="1500">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-sm-12 col-md-6 col-lg-4 text-start no-color">
+				<div class="col-sm-12 col-md-6 col-lg-5 text-start no-color">
+					<img
+						style="width: 180px; border-radius: 2px; box-shadow: -20px -20px 56px #d9d9d9, 20px 20px 56px #e7e7e7"
+						src="@/assets/images/cv_me.png"
+						alt="" />
 					<h3 class="header-spacing">Kontakt informasjon</h3>
-					<p class="text-spacing"><span class="year-font-size-two">Navn:</span> Lea jayaseela</p>
+					<p class="text-spacing"><span class="year-font-size-two">Navn:</span> Lea Jayaseela</p>
 					<p class="text-spacing"><span class="year-font-size-two"> E-post: </span>leajayaseelaa@gmail.com</p>
 
 					<p class="text-spacing"><span class="year-font-size-two">Mob:</span> 47313874</p>
@@ -22,19 +26,30 @@
 						></a>
 					</p>
 
-					<h3 class="header-spacing">Kvalifikasjoner</h3>
+					<h3 class="header-spacing">Kvalifikasjoner / Interesser / IT</h3>
 					<p class="text-spacing">
-						Liker utfordringer og å jobbe i team, men jobber også godt individuelt. Er kreativ, strukturert, positiv, fleksibel, nysgjerring og opptatt av å gjøre en grundig jobb. Har gode
-						IT-ferdigheter.
+						Jeg trives spesielt godt med å arbeide inne design på digitale flater, særlig i overgangen fra wireframes til klikkbare prototyper. Under en slik prosses foretrekker jeg å
+						benytte verktøy som Figma, samtidig som jeg også har erfaring med Adobe. Jeg har erfaring innen webutvikling (HTML, CSS og JS), og noe kunnskap innen Databaser, IOS og CMS,
+						dette gi meg forståelse som er verdifull når jeg samarbeider med utviklere.
+					</p>
+					<br />
+					<p class="text-spacing">
+						Jeg har tilegnet meg kunnskap innen innsamling av innsikt og brukertesting, og jeg opplever alltid et "aha"-øyeblikk når jeg får innsikt i brukerbehov og aspekter ved løsningen
+						som krever spesiell oppmerksomhet. Jeg synes det spennende å veve sammen resultater fra bruketester for å skape brukervennlige og effektive løsninger.
+					</p>
+					<br />
+					<p class="text-spacing">
+						Når jeg jobber med å utvikle en løsning er jeg opptatt av universell utforming, brukervennlighet, funksjonalitet og visuell appell. Jeg er engasjert i å levere et grundig
+						arbeid og setter pris på å følge en prosess fra start til slutt (og videre), for å sikre at sluttproduktet er av høy kvalitet og møter brukerens behov.
 					</p>
 					<h3 class="header-spacing">Språk</h3>
 					<p class="text-spacing"><span class="year-font-size-two">Norsk:</span> Morsmål</p>
 					<p class="text-spacing"><span class="year-font-size-two">Engelsk:</span> Godt skiftlig, flytende muntlig</p>
 
-					<h3 class="header-spacing">IT</h3>
-					<p class="text-spacing">Office, Adobepakken (InDesign, Illustrator), Figma, Html, CSS, JavaSkript, Vue rammeverk, WordPress, database, Java og Swift.</p>
+					<!-- <h3 class="header-spacing">IT</h3>
+					<p class="text-spacing">Office, Adobepakken (InDesign, Illustrator), Figma, Html, CSS, JavaSkript, Vue rammeverk, WordPress, database, Java og Swift.</p> -->
 
-					<h3 class="header-spacing">Referanser</h3>
+					<!-- <h3 class="header-spacing">Referanser</h3>
 
 					<p class="text-spacing">Apotek 1 kiellands hus</p>
 					<p class="text-spacing">Daniel Chan (farmasøyt)</p>
@@ -42,10 +57,10 @@
 					<p class="small-space"></p>
 					<p class="text-spacing">Apotek 1 kiellands hus</p>
 					<p class="text-spacing">Hutsuda Lawrence (farmasøyt)</p>
-					<p class="text-spacing">mob: 98031163</p>
+					<p class="text-spacing">mob: 98031163</p> -->
 				</div>
 
-				<div class="col-sm-12 col-md-6 col-lg-4 text-start half-color bg-success text-dark bg-opacity-10">
+				<div class="col-sm-12 col-md-6 col-lg-7 text-start half-color bg-success text-dark bg-opacity-10">
 					<h3 class="header-spacing-two">Utdanning</h3>
 
 					<div class="text-spacing">
@@ -54,26 +69,54 @@
 
 						-->
 						<h4 class="year-font-size-two">2020-2023:</h4>
-						<p class="text-spacing">Bachelor i informasjonsteknologi interaktivt design, Kristiania</p>
+						<p class="text-spacing">Bachelor i informasjonsteknologi interaktivt design, Kristiania.</p>
+						<br />
+						<p class="text-spacing">
+							Min tid som student på denne graden var ikke bare lærerik, men også utrolig givende. Her utforsket jeg skjæringspunktet mellom design og programmering, og oppdaget gleden
+							ved å skape visuelle løsninger i kombinasjon med å utvikle dem. Å designe responsive løsninger for ulike digitale plattformer som mobil, nettbrett og PC fascinerte meg. Jeg
+							ble spesielt interessert i hvordan valg av farger og fonter kunne påvirke opplevelsen på en digital flater, og hvordan oppfyllelse av WCAG-krav kunne gjøre en løsning
+							tilgjengelig for et bredere publikum. I tillegg lærte jeg verdien av brukertesting og betydningen av å unngå ledende spørsmål for å identifisere potensielle
+							irritasjonsmomenter og muligheter for forbedring.
+						</p>
+						<br />
+						<p class="text-spacing">
+							I faget kreativ webutvikling fikk jeg muligheten til å følge hele prosessen fra wireframe til ferdig løsning, og opplevde stor tilfredsstillelse i å se ideer bli realisert.
+							Å få et innblikk i databaser, webutvikling og iOS ga meg en bedre forståelse for kompleksiteten av systemer. Gjennom flere prosjekter samarbeidet vi på tvers av IT-linjene,
+							og jeg fikk erfaring med samarbeidsverktøy som Scrum og Kanban, noe som ytterligere styrket mine ferdigheter i samarbeid og understreket viktigheten av god kommunikasjon i
+							et team.
+						</p>
 						<h4 class="year-font-size">2015-2018:</h4>
 						<p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
+						<br />
+						<p class="text-spacing">
+							Min bachelorgrad i produktdesign ved OsloMet åpnet horisonten min og ga meg forståelse for universell utforming. Det var i løpet av denne perioden at jeg innså hvordan små
+							endringer i et produkt kunne utgjøre en betydelig forskjell for både små og store grupper mennesker.
+						</p>
+						<br />
+						<p class="text-spacing">
+							Gjennom studium av materialforskning fikk jeg innsikt i hvordan man kan gjøre produkter mer bærekraftige. Jeg lærte å identifisere materialer som egner seg godt for
+							resirkulering, og som reduserer det totale klimaavtrykket. Denne kunnskapen har styrket mitt engasjement for å skape designløsninger som ikke bare er funksjonelle og
+							estetisk tiltalende, men også miljømessig ansvarlige.
+						</p>
+						<br />
+						<p class="text-spacing">
+							I løpet av studietiden deltok jeg i designprosesser i større grupper, der iterasjon og ideutvikling var sentrale elementer. Dette har formet min evne til å finne
+							appellerende og innovative løsninger gjennom samarbeid og en iterativ tilnærming til designutfordringer.
+						</p>
 					</div>
 					<div class="text-spacing">
 						<h3 class="header-spacing-two">Arbeidserfaring</h3>
-						<h4 class="year-font-size-two">2019-2022:</h4>
+						<h4 class="year-font-size-two">2019-2023:</h4>
 						<p class="text-spacing">
 							Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber med resepthåndtering, varetelling, vareeksponering, kassaarbeid, innsending av resepter til Helfo,
-							varegistrering, kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger. Har også ansvar for åpning og stenging av apoteket.
+							varegistrering, kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger.
 						</p>
 						<h4 class="year-font-size">2018-2019:</h4>
 						<p class="text-spacing">Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer. Gjorde tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1 kiellans hus.</p>
-						<h4 class="year-font-size">2016-2017:</h4>
-						<p class="text-spacing">Sesongarbeider, Apotek1 Steinkjer. Jobbet med kundebehandling, kassaarbeid og resepthåndtering.</p>
-						<h4 class="year-font-size">2013-2015:</h4>
-						<p class="text-spacing">
-							Helgeansatt, Nils Aas Kunsverksted. Tok imot besøkende og introduserte utstillinger. Ekspederte i museumsbutikken og bidro under konserter på bygget.
-						</p>
 					</div>
+					<br />
+
+					<p class="text-spacing">Referanse oppgis ved forespørsel.</p>
 				</div>
 			</div>
 		</div>
