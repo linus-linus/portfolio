@@ -26,7 +26,7 @@
 						></a>
 					</p>
 
-					<h3 class="header-spacing">Kvalifikasjoner / Interesser / IT</h3>
+					<h3 class="header-spacing">Kvalifikasjoner</h3>
 					<p class="text-spacing">
 						Jeg trives spesielt godt med å arbeide inne design på digitale flater, særlig i overgangen fra wireframes til klikkbare prototyper. Under en slik prosses foretrekker jeg å
 						benytte verktøy som Figma, samtidig som jeg også har erfaring med Adobe. Jeg har erfaring innen webutvikling (HTML, CSS og JS), og noe kunnskap innen Databaser, IOS og CMS,
