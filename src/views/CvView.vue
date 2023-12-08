@@ -116,7 +116,7 @@
 					</div>
 					<br />
 
-					<p class="text-spacing">Referanse oppgis ved forespørsel.</p>
+					<em><p class="text-spacing">Referanse oppgis ved forespørsel.</p></em>
 				</div>
 			</div>
 		</div>
