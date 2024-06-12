@@ -4,7 +4,9 @@
 	<div
 		class="collapse"
 		id="collapseExample"></div>
-	<nav class="navbar navbar-expand-lg sticky-top">
+	<nav
+		style="background-color: white"
+		class="navbar navbar-expand-lg sticky-top">
 		<div class="container-fluid">
 			<router-link
 				class="nav-link nav-style-balloon"

@@ -106,7 +106,14 @@
 					</div>
 					<div class="text-spacing">
 						<h3 class="header-spacing-two">Arbeidserfaring</h3>
-						<h4 class="year-font-size-two">2019-2023:</h4>
+						<h4 class="year-font-size-two">2024 -</h4>
+						<p class="text-spacing">
+							Deltidsstiling som UX-designe hos Pureservice. Mine arbeidsoppgaver er å vedlikeholde oversikt over landskapet for UX. Ha en god oversikt over kundenes behov. Delta på
+							utviklingsteamets planning. Er representant for kunder perspektiv. Er tilgjengelig for utviklingsteamet for avklaringer knyttet til hva som er i kundens beste interesse.
+							Leverer skisser til utviklingsteamet for features som er prioritert. Jobber mye med skisering i figma innsikts og brukertesting.
+						</p>
+
+						<h4 class="year-font-size">2019-2024:</h4>
 						<p class="text-spacing">
 							Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber med resepthåndtering, varetelling, vareeksponering, kassaarbeid, innsending av resepter til Helfo,
 							varegistrering, kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger.
