@@ -108,9 +108,14 @@
 						<h3 class="header-spacing-two">Arbeidserfaring</h3>
 						<h4 class="year-font-size-two">2024 -</h4>
 						<p class="text-spacing">
-							Deltidsstiling som UX-designe hos Pureservice. Mine arbeidsoppgaver er å vedlikeholde oversikt over landskapet for UX. Ha en god oversikt over kundenes behov. Delta på
-							utviklingsteamets planning. Er representant for kunder perspektiv. Er tilgjengelig for utviklingsteamet for avklaringer knyttet til hva som er i kundens beste interesse.
-							Leverer skisser til utviklingsteamet for features som er prioritert. Jobber mye med skisering i figma innsikts og brukertesting.
+							<!--Deltidsstiling som UX-designe hos Pureservice. Mine arbeidsoppgaver er å vedlikeholde oversikt over landskapet for UX. Ha en god oversikt over kundenes behov. Delta på
+							utviklingsteamets planning. Være tilgjengelig for utviklingsteamet for avklaringer knyttet til hva som er i kundens beste interesse.
+							Leverer skisser til utviklingsteamet for features som er prioritert. Jobber mye kretivt med skisseringer for å finne gode løsninger som er universell utforming, brukervennlighet og visuell appell i Figma. Har også vært en del av innsamling innsikts og holdt brukertesting.
+							-->
+							I min deltidsstilling som UX-designer hos Pureservice vedlikeholder jeg oversikten over UX-landskapet og har god forståelse for kundenes behov. Jeg deltar i
+							utviklingsteamets planlegging og er tilgjengelig for å avklare spørsmål knyttet til kundens beste interesse. Mine oppgaver inkluderer å levere skisser for prioriterte
+							funksjoner og jobbe kreativt med å finne løsninger som er universelt utformede, brukervennlige og visuelt tiltalende, hovedsakelig i Figma. Jeg har også deltatt i
+							innsamling av innsikt og gjennomført brukertesting.
 						</p>
 
 						<h4 class="year-font-size">2019-2024:</h4>
@@ -168,13 +173,13 @@ a:link {
 	margin: 1rem;
 }
 .year-font-size {
-	font-size: 0.6rem;
+	font-size: 0.9rem;
 	margin-top: 1.5rem;
 	margin-bottom: 0rem;
 }
 
 .year-font-size-two {
-	font-size: 0.6rem;
+	font-size: 0.9rem;
 	margin-bottom: 0rem;
 }
 </style>
