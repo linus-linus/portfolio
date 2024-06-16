@@ -112,7 +112,7 @@
 							utviklingsteamets planning. Være tilgjengelig for utviklingsteamet for avklaringer knyttet til hva som er i kundens beste interesse.
 							Leverer skisser til utviklingsteamet for features som er prioritert. Jobber mye kretivt med skisseringer for å finne gode løsninger som er universell utforming, brukervennlighet og visuell appell i Figma. Har også vært en del av innsamling innsikts og holdt brukertesting.
 							-->
-							I min deltidsstilling som UX-designer hos Pureservice vedlikeholder jeg oversikten over UX-landskapet og har god forståelse for kundenes behov. Jeg deltar i
+							Deltidsstilling som UX-designer hos Pureservice, mine arbeidsoppgaver er å vedlikeholder oversikten over UX-landskapet, ha god forståelse for kundenes behov. Jeg deltar i
 							utviklingsteamets planlegging og er tilgjengelig for å avklare spørsmål knyttet til kundens beste interesse. Mine oppgaver inkluderer å levere skisser for prioriterte
 							funksjoner og jobbe kreativt med å finne løsninger som er universelt utformede, brukervennlige og visuelt tiltalende, hovedsakelig i Figma. Jeg har også deltatt i
 							innsamling av innsikt og gjennomført brukertesting.
