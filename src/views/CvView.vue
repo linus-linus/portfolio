@@ -19,11 +19,12 @@
 					<p class="text-spacing"><span class="year-font-size-two">Mob:</span> 47313874</p>
 					<p class="text-spacing"><span class="year-font-size-two">Født:</span> 14.10.1996</p>
 					<p class="text-spacing linkedin">
-						<a
+						<!--<a
 							target="_blank"
 							href="https://www.linkedin.com/in/lea-jayaseela-3810a3158/">
 							Linkedin <i class="bi bi-linkedin"></i
 						></a>
+						-->
 					</p>
 
 					<h3 class="header-spacing">Kvalifikasjoner</h3>
