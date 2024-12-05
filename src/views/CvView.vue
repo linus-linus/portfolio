@@ -119,10 +119,10 @@
 							brukertesting.
 						</p>
 
-						<h4 class="year-font-size">2019-2024:</h4>
+						<h4 class="year-font-size">09.2019 - 04.2024:</h4>
 						<p class="text-spacing">
-							Tilkallingshjelp 50-80% stilling, Apotek 1 kiellans hus. Jobber med resepthåndtering, varetelling, vareeksponering, kassaarbeid, innsending av resepter til Helfo,
-							varegistrering, kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger.
+							Tilkallingshjelp Apotek 1 kiellans hus. Jobber med resepthåndtering, varetelling, vareeksponering, kassaarbeid, innsending av resepter til Helfo, varegistrering,
+							kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger.
 						</p>
 						<h4 class="year-font-size">2018-2019:</h4>
 						<p class="text-spacing">Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer. Gjorde tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1 kiellans hus.</p>
