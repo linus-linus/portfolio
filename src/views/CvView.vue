@@ -69,7 +69,7 @@
 						<p class="text-spacing">Årsstudie digital markedsføring</p>
 
 						-->
-						<h4 class="year-font-size-two">2020-2023:</h4>
+						<h4 class="year-font-size-two">08.2020 - 06.2023</h4>
 						<p class="text-spacing">Bachelor i informasjonsteknologi interaktivt design, Kristiania.</p>
 						<br />
 						<p class="text-spacing">
@@ -81,12 +81,12 @@
 						</p>
 						<br />
 						<p class="text-spacing">
-							I faget kreativ webutvikling fikk jeg muligheten til å følge hele prosessen fra wireframe til ferdig løsning, og opplevde stor tilfredsstillelse i å se ideer bli realisert.
-							Å få et innblikk i databaser, webutvikling og iOS ga meg en bedre forståelse for kompleksiteten av systemer. Gjennom flere prosjekter samarbeidet vi på tvers av IT-linjene,
-							og jeg fikk erfaring med samarbeidsverktøy som Scrum og Kanban, noe som ytterligere styrket mine ferdigheter i samarbeid og understreket viktigheten av god kommunikasjon i
-							et team.
+							I faget kreativ webutvikling fikk jeg muligheten til å følge hele prosessen fra wireframe til ferdig løsning, og opplevde mestring i å se ideer bli realisert. Å få et
+							innblikk i databaser, webutvikling og iOS ga meg en bedre forståelse for kompleksiteten av systemer. Gjennom flere prosjekter samarbeidet vi på tvers av IT-linjene, og jeg
+							fikk erfaring med samarbeidsverktøy som Scrum og Kanban, noe som ytterligere styrket mine ferdigheter i samarbeid og understreket viktigheten av god kommunikasjon i et
+							team.
 						</p>
-						<h4 class="year-font-size">2015-2018:</h4>
+						<h4 class="year-font-size">08.2015 - 06.2018</h4>
 						<p class="text-spacing">Bachelor i produktdesign, OsloMet.</p>
 						<br />
 						<p class="text-spacing">
@@ -107,25 +107,29 @@
 					</div>
 					<div class="text-spacing">
 						<h3 class="header-spacing-two">Arbeidserfaring</h3>
-						<h4 class="year-font-size-two">2024 -</h4>
+						<h4 class="year-font-size-two">02.2024 - 09.2024</h4>
 						<p class="text-spacing">
 							<!--Deltidsstiling som UX-designe hos Pureservice. Mine arbeidsoppgaver er å vedlikeholde oversikt over landskapet for UX. Ha en god oversikt over kundenes behov. Delta på
 							utviklingsteamets planning. Være tilgjengelig for utviklingsteamet for avklaringer knyttet til hva som er i kundens beste interesse.
 							Leverer skisser til utviklingsteamet for features som er prioritert. Jobber mye kretivt med skisseringer for å finne gode løsninger som er universell utforming, brukervennlighet og visuell appell i Figma. Har også vært en del av innsamling innsikts og holdt brukertesting.
 							-->
-							UX-designer hos Pureservice. Mine arbeidsoppgaver er å vedlikeholder oversikten over UX-landskapet, ha god forståelse for kundenes behov. Jeg deltar i utviklingsteamets
-							planlegging og er tilgjengelig for å avklare spørsmål knyttet til kundens beste interesse. Oppgavene mine inkluderer å levere skisser for prioriterte funksjoner og jobbe
-							kreativt med å finne løsninger som er universelt utformede, brukervennlige og visuelt tiltalende, hovedsakelig i Figma. Jobber også med innsamling av innsikt og gjennomført
-							brukertesting.
+							UX-designer hos Pureservice 40% stilling. Mine arbeidsoppgaver er å vedlikeholder oversikten over UX-landskapet, ha god forståelse for kundenes behov. Jeg deltar i
+							utviklingsteamets planlegging og er tilgjengelig for å avklare spørsmål knyttet til kundens beste interesse. Oppgavene mine inkluderer å levere skisser for prioriterte
+							funksjoner og jobbe kreativt med å finne løsninger som er universelt utformede, brukervennlige og visuelt tiltalende, hovedsakelig i Figma. Jobber også med innsamling av
+							innsikt og gjennomført brukertesting.
 						</p>
+						<h4 class="year-font-size-two">10.2024 - 01.2025</h4>
+						UX-designer hos Pureservice 100% stilling. Samme arbeidsoppgaver som nevnt over.
 
-						<h4 class="year-font-size">09.2019 - 04.2024:</h4>
+						<h4 class="year-font-size">09.2019 - 04.2024</h4>
 						<p class="text-spacing">
 							Tilkallingshjelp Apotek 1 kiellans hus. Jobber med resepthåndtering, varetelling, vareeksponering, kassaarbeid, innsending av resepter til Helfo, varegistrering,
-							kundebehandling og bruk av ulike dataprogram for f.eks. e-bestillinger.
+							kundebehandling og bruk av ulike dataprogram som farmaPro.
 						</p>
-						<h4 class="year-font-size">2018-2019:</h4>
-						<p class="text-spacing">Vikar/tilkallingshjelp 80-100% stilling, Apotek1 Steinkjer. Gjorde tilsvarende arbeidsoppgaver som jeg nå gjør hos Apotek 1 kiellans hus.</p>
+						<h4 class="year-font-size-two">04.2024 - 09.2024</h4>
+						<p class="text-spacing">Apoteket jeg jobbet på skiftet til vitusapotek kiellans hus. likt system, nye rutiner.</p>
+						<h4 class="year-font-size">06.2018-08.2019</h4>
+						<p class="text-spacing">Tilkallingshjelp Apotek1 Steinkjer. Gjorde tilsvarende arbeidsoppgaver som hos Apotek 1 kiellans hus.</p>
 					</div>
 					<br />
 
